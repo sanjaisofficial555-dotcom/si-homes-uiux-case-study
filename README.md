@@ -57,11 +57,11 @@ A dedicated section for users to explore SI Homes residential projects.
 A clear presentation of the services offered by SI Homes.
 
 ### 👥 About Us
-![About Us](Assets/About-us.png)
+![About Us](Assets/Aboutpage.png)
 Information about the company, experience, and brand.
 
 ### 📅 Book Site Visit
-![Contact Page](Assets/Contact.png)
+![Contact Page](Assets/Contactpage.png)
 A clear call-to-action for customers who want to visit a property.
 
 ## 📱 Responsive Design
