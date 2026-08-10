@@ -90,9 +90,7 @@ The mobile design uses a responsive navigation menu, optimized content hierarchy
 
 - Figma
 - Canva
-- Adobe Illustrator
-- Framer
-
+- 
 ## 🔗 Figma Design
 
 Add your Figma link here:
