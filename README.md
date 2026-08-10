@@ -39,7 +39,7 @@ The goal of this project was to create a professional digital experience for SI 
 ## 📱 Key Features
 
 ### 🏠 Home Page
-![Homepage Desktop](assets/Homepage.png)
+![Homepage Desktop](Assets/Homepage.png)
 
 - Brand introduction
 - Property showcase
