@@ -91,11 +91,11 @@ The mobile design uses a responsive navigation menu, optimized content hierarchy
 - Figma
 - Canva
 - 
-## 🔗 Figma Design
+## ## 🔗 Figma Design & Prototype
 
-Add your Figma link here:
+🚀 **[View Interactive Prototype](https://www.figma.com/proto/lJPgkZHckllYvFOIarEW6k/SI-Homes--website-Design?node-id=2-3&p=f&t=JOgi8ZWcG4mCfhZr-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)**
 
-**[View Figma Design](https://www.figma.com/proto/lJPgkZHckllYvFOIarEW6k/SI-Homes--website-Design?node-id=2-3&p=f&t=JOgi8ZWcG4mCfhZr-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)**
+🎨 **[View Figma Design](https://www.figma.com/design/lJPgkZHckllYvFOIarEW6k/SI-Homes--website-Design?node-id=0-1&t=oidLwcscDE4qa0Ng-1)**
 
 ## 💡 Project Outcome
 
