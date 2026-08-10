@@ -39,6 +39,8 @@ The goal of this project was to create a professional digital experience for SI 
 ## 📱 Key Features
 
 ### 🏠 Home Page
+![Homepage Desktop](assets/homepage.png)
+
 - Brand introduction
 - Property showcase
 - Company experience
@@ -47,15 +49,19 @@ The goal of this project was to create a professional digital experience for SI 
 - Clear call-to-action buttons
 
 ### 🏘️ Projects
+![Projects Page](assets/projects.png)
 A dedicated section for users to explore SI Homes residential projects.
 
 ### 🛠️ Services
+![Services Page](assets/services.png)
 A clear presentation of the services offered by SI Homes.
 
 ### 👥 About Us
+![About Us](assets/about-us.png)
 Information about the company, experience, and brand.
 
 ### 📅 Book Site Visit
+![Contact Page](assets/contact.png)
 A clear call-to-action for customers who want to visit a property.
 
 ## 📱 Responsive Design
@@ -92,12 +98,6 @@ The mobile design uses a responsive navigation menu, optimized content hierarchy
 Add your Figma link here:
 
 **[View Figma Design](YOUR_FIGMA_LINK)**
-
-## 🌐 Live Website
-
-Add your live website link here if available:
-
-**[View Live Website](YOUR_WEBSITE_LINK)**
 
 ## 💡 Project Outcome
 
