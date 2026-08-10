@@ -49,11 +49,11 @@ The goal of this project was to create a professional digital experience for SI 
 - Clear call-to-action buttons
 
 ### 🏘️ Projects
-![Projects Page](Assets/Project_page.png)
+![Projects Page](Assets/Projectpage.png)
 A dedicated section for users to explore SI Homes residential projects.
 
 ### 🛠️ Services
-![Services Page](Assets/Services.png)
+![Services Page](Assets/Servicespage.png)
 A clear presentation of the services offered by SI Homes.
 
 ### 👥 About Us
