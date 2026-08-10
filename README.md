@@ -1,6 +1,6 @@
 # 🏠 SI Homes – Real Estate Website UI/UX Design
 
-![SI Homes UI/UX Preview](Cover%20page.png)
+![SI Homes UI/UX Preview](Preview.png)
 
 ## 📌 Project Overview
 
