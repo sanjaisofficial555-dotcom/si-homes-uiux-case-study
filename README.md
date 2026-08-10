@@ -49,19 +49,19 @@ The goal of this project was to create a professional digital experience for SI 
 - Clear call-to-action buttons
 
 ### 🏘️ Projects
-![Projects Page](assets/projects.png)
+![Projects Page](Assets/Projects.png)
 A dedicated section for users to explore SI Homes residential projects.
 
 ### 🛠️ Services
-![Services Page](assets/services.png)
+![Services Page](Assets/Services.png)
 A clear presentation of the services offered by SI Homes.
 
 ### 👥 About Us
-![About Us](assets/about-us.png)
+![About Us](Assets/About-us.png)
 Information about the company, experience, and brand.
 
 ### 📅 Book Site Visit
-![Contact Page](assets/contact.png)
+![Contact Page](Assets/Contact.png)
 A clear call-to-action for customers who want to visit a property.
 
 ## 📱 Responsive Design
