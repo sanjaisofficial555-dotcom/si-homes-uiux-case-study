@@ -95,7 +95,7 @@ The mobile design uses a responsive navigation menu, optimized content hierarchy
 
 Add your Figma link here:
 
-**[View Figma Design](YOUR_FIGMA_LINK)**
+**[View Figma Design](https://www.figma.com/proto/lJPgkZHckllYvFOIarEW6k/SI-Homes--website-Design?node-id=2-3&p=f&t=JOgi8ZWcG4mCfhZr-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)**
 
 ## 💡 Project Outcome
 
